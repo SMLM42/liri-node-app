@@ -8,3 +8,5 @@ concert-this "band name here" will return concert dates for the band in question
 movie-this "movie name here" will return information about the specified movie. If left blank, information about the movie "Mr. Nobody" will be shown. 
 spotify-this-song "search term here" will return information of the first 20 songs related to that search term. If left blank, this will return only the song "The Sign" by Ace of Base.
 do-what-it-says does not require another input, it will do whatever is typed into the file random.txt
+
+In the folder assets there is a folder called images that has a screenshot of every possible command inputted into this app. 
