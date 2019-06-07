@@ -8,15 +8,27 @@ The commands must be typed exactly as they appear above or the user will recieve
 For the first 3 commands, the user also needs to type a search parameter after the command.
 
 concert-this "band name here" will return concert dates for the band in question. If left blank, no results will be returned. This is what the results look like:
+
 ![Alt text](https://github.com/SMLM42/liri-node-app/blob/master/assets/images/concert-this.png "concert-this")
+
 movie-this "movie name here" will return information about the specified movie.
+
 ![Alt text](https://github.com/SMLM42/liri-node-app/blob/master/assets/images/movie-this-search.png "movie-this")
+
 If left blank, information about the movie "Mr. Nobody" will be shown:
+
 ![Alt text](https://github.com/SMLM42/liri-node-app/blob/master/assets/images/movie-this-default.png "movie-this-default")
+
 spotify-this-song "search term here" will return information of the first 20 songs related to that search term. 
+
 ![Alt text](https://github.com/SMLM42/liri-node-app/blob/master/assets/images/spotify-this-song-search.png "concert-this")
+
 If left blank, this will return only the song "The Sign" by Ace of Base.
+
 ![Alt text](https://github.com/SMLM42/liri-node-app/blob/master/assets/images/spotify-this-song-default.png "spotify-default")
+
 do-what-it-says does not require another input, it will do whatever is typed into the file random.txt
+
 ![Alt text](https://github.com/SMLM42/liri-node-app/blob/master/assets/images/do-what-it-says.png "do-what-it-says")
+
 In the folder assets there is a folder called images that has a screenshot of every possible command inputted into this app. 
