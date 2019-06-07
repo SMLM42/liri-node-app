@@ -1,5 +1,6 @@
 # liri-node-app
 This app allows a user to input 1 of 4 commands into their console to receive results from 3 different sites.
+![Alt text](https://github.com/SMLM42/liri-node-app/blob/master/assets/images/Default.png "Optional Title")
 In order to use this app, the user must create a file with the .env type and store their spotify api credentials within it. The format is SPOTIFY_ID="place your id here without quotes",SPOTIFY_SECRET="Place your spotify secret here without quotes"
 The commands are: concert-this, movie-this,spotify-this-song, do-what-it-says
 The commands must be typed exactly as they appear above or the user will recieve an error message. 
