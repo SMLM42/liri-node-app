@@ -10,9 +10,9 @@ For the first 3 commands, the user also needs to type a search parameter after t
 concert-this "band name here" will return concert dates for the band in question. If left blank, no results will be returned. This is what the results look like:
 ![Alt text](https://github.com/SMLM42/liri-node-app/blob/master/assets/images/concert-this.png "concert-this")
 movie-this "movie name here" will return information about the specified movie.
-![Alt text](https://github.com/SMLM42/liri-node-app/blob/master/assets/image/movie-this-search.png "movie-this")
+![Alt text](https://github.com/SMLM42/liri-node-app/blob/master/assets/images/movie-this-search.png "movie-this")
 If left blank, information about the movie "Mr. Nobody" will be shown:
-![Alt text](https://github.com/SMLM42/liri-node-app/blob/master/assets/image/movie-this-default.png "movie-this-default")
+![Alt text](https://github.com/SMLM42/liri-node-app/blob/master/assets/images/movie-this-default.png "movie-this-default")
 spotify-this-song "search term here" will return information of the first 20 songs related to that search term. 
 ![Alt text](https://github.com/SMLM42/liri-node-app/blob/master/assets/images/spotify-this-song-search.png "concert-this")
 If left blank, this will return only the song "The Sign" by Ace of Base.
